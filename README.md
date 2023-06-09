@@ -8,4 +8,4 @@ Es importante registrar la fecha de inicio y finaol de la reserva, el precio del
 Todo coche tiene siempre asignado un determinado garaje que no puede cambiar. De cada coche se requiere la matrícula, el modelo, el color y la marca. Cada reserva se realiza en una determinada agencia.
 
 ## SOLUCIÓN
-![Solucion](Simulacro.PNG)
+![Solucion](Simulacro2.PNG)
